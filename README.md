@@ -127,9 +127,60 @@ Security is a process."
 ```
 
 ```text
-[root@localhost ~]# access granted
+[root@ruvik ~]# access granted
 
-██████████████████████████████████
-█ CYBERSECURITY • RESEARCH • OSS █
-██████████████████████████████████
++----------------------------------+
+| CYBERSECURITY • RESEARCH • OSS   |
++----------------------------------+
+```
+
+```text
+root@ruvik:~$ status
+
+====================================
+| CYBERSECURITY • RESEARCH • OSS   |
+====================================
+```
+
+```text
+[+] Authentication successful
+
+####################################
+# CYBERSECURITY • RESEARCH • OSS  #
+####################################
+```
+
+```text
+root@ruvik:~$ cat profile.txt
+
+╔══════════════════════════════════╗
+║ CYBERSECURITY • RESEARCH • OSS  ║
+╚══════════════════════════════════╝
+```
+
+```text
+root@ruvik:~$ ./access
+
+██╗   ██╗███████╗██████╗ ██╗███████╗██╗███████╗██████╗
+██║   ██║██╔════╝██╔══██╗██║██╔════╝██║██╔════╝██╔══██╗
+██║   ██║█████╗  ██████╔╝██║█████╗  ██║█████╗  ██║  ██║
+╚██╗ ██╔╝██╔══╝  ██╔══██╗██║██╔══╝  ██║██╔══╝  ██║  ██║
+ ╚████╔╝ ███████╗██║  ██║██║██║     ██║███████╗██████╔╝
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+
+[ ACCESS GRANTED ]
+```
+
+```text
+┌──(root㉿ruvik)-[~]
+└─# whoami
+
+Cybersecurity Researcher
+Ethical Hacker
+Open Source Enthusiast
+
+┌──(root㉿ruvik)-[~]
+└─# echo $MISSION
+
+Research • Build • Break • Understand • Secure
 ```
