@@ -138,7 +138,7 @@ Security is a process."
 root@ruvik:~$ status
 
 ====================================
-| CYBERSECURITY • RESEARCH • OSS   |
+|            Online                |
 ====================================
 ```
 
@@ -146,16 +146,8 @@ root@ruvik:~$ status
 [+] Authentication successful
 
 ####################################
-# CYBERSECURITY • RESEARCH • OSS  #
+#           Welcome                #
 ####################################
-```
-
-```text
-root@ruvik:~$ cat profile.txt
-
-╔══════════════════════════════════╗
-║ CYBERSECURITY • RESEARCH • OSS  ║
-╚══════════════════════════════════╝
 ```
 
 ```text
